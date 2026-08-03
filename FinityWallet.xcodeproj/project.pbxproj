@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		7907B3972F2A87CD009CE7B0 /* P12M3L11 */ = {
+		7907B3972F2A87CD009CE7B0 /* FinityWallet */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = P12M3L11;
+			path = FinityWallet;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		7907B38C2F2A87CD009CE7B0 = {
 			isa = PBXGroup;
 			children = (
-				7907B3972F2A87CD009CE7B0 /* P12M3L11 */,
+				7907B3972F2A87CD009CE7B0 /* FinityWallet */,
 				7907B3962F2A87CD009CE7B0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				7907B3972F2A87CD009CE7B0 /* P12M3L11 */,
+				7907B3972F2A87CD009CE7B0 /* FinityWallet */,
 			);
 			name = P12M3L11;
 			packageProductDependencies = (
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7907B3902F2A87CD009CE7B0 /* Build configuration list for PBXProject "P12M3L11" */;
+			buildConfigurationList = 7907B3902F2A87CD009CE7B0 /* Build configuration list for PBXProject "FinityWallet" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -267,7 +267,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = My.P12M3L11;
+				PRODUCT_BUNDLE_IDENTIFIER = FinityWallet;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -304,7 +304,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = My.P12M3L11;
+				PRODUCT_BUNDLE_IDENTIFIER = FinityWallet;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -323,7 +323,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7907B3902F2A87CD009CE7B0 /* Build configuration list for PBXProject "P12M3L11" */ = {
+		7907B3902F2A87CD009CE7B0 /* Build configuration list for PBXProject "FinityWallet" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7907B39E2F2A87CE009CE7B0 /* Debug */,

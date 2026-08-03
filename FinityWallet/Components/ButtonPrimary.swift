@@ -1,6 +1,6 @@
 //
 //  ButtonPrimary.swift
-//  P12M3L11
+//  FinityWallet
 //
 //  Created by Valeriy Protsenko on 01.02.2026.
 //

@@ -1,6 +1,6 @@
 //
 //  MockStoryData.swift
-//  P12M3L11
+//  FinityWallet
 //
 //  Created by Valeriy Protsenko on 30.01.2026.
 //

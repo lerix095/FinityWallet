@@ -1,6 +1,6 @@
 //
 //  Label.swift
-//  P12M3L11
+//  FinityWallet
 //
 //  Created by Valeriy Protsenko on 29.01.2026.
 //

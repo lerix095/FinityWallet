@@ -1,6 +1,6 @@
 //
 //  Color Hex.swift
-//  P12M3L10
+//  FinityWallet
 //
 //  Created by Valeriy Protsenko on 28.01.2026.
 //

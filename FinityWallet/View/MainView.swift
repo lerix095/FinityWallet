@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  P12M3L11
+//  FinityWallet
 //
 //  Created by Valeriy Protsenko on 28.01.2026.
 //
